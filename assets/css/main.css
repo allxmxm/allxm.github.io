@@ -2053,3 +2053,11 @@ button,
   margin-bottom: 1px;
   width: 50%;
 }
+
+.left {
+  width: 50%;
+  margin-left: 10px;
+  overflow: hidden;
+  float: left;
+  margin-bottom: 20px;
+}
