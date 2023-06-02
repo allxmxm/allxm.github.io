@@ -2026,6 +2026,14 @@ button,
     left: 0;
   }
 
+  .video_container img {
+    position: relative;
+    width: auto;
+    height: auto;
+    margin-left: 10px;
+    float: left;
+  }
+
   .po_explain {
     position: relative;
     width: 47%;
